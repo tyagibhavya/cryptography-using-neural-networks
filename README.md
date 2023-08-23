@@ -8,8 +8,7 @@ This Python script implements an image and text message encoding and decoding sy
   - [Overview](#overview)
   - [Key Components](#key-components)
   - [How it Works](#how-it-works)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites)
 
 ## Overview
 
@@ -40,11 +39,7 @@ This project showcases an innovative approach to secure messaging by encoding te
 - Decoding: The encoded image is then decoded to recover the original text message.
 - Security: This process adds a layer of security to messages by concealing them within images.
 
-## Getting Started
-
-Follow these instructions to get the project up and running on your local machine.
-
-### Prerequisites
+## Prerequisites
 
 Ensure you have the following prerequisites installed:
 

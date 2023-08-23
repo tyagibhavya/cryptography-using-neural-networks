@@ -10,11 +10,6 @@ This Python script implements an image and text message encoding and decoding sy
   - [How it Works](#how-it-works)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
